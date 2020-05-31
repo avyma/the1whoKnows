@@ -228,8 +228,6 @@
         onEachFeature: function (feature, layer) {
           const props = layer.feature.properties;
 
-          console.log('layer', layer.feature.properties);
-
           const popText = `<p><h3>${props.Name}</h3></p><p>Address: ${props.Address}<br>City: ${props.City}<br>State: ${props.State}<br>Zip: ${props.Zip}<br>Country: ${props.Country}</p>`;
           const popStyle = {
             'maxWidth': '400',
