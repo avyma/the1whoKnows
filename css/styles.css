@@ -1,0 +1,87 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+
+  font-family: "Montserrat", sans-serif;
+  /*font-weight: 400;*/
+}
+
+#map {
+  width: 100%;
+  height: 40vh;
+}
+
+.province {
+  fill: none;
+  stroke: #013b3f;
+  stroke-width: 2;
+}
+
+.metro {
+  fill: #67a9cf;
+  stroke: #bdc9e1;
+}
+
+.metro:hover {
+  fill: #61f0cc;
+  stroke: #bdc9e1;
+  stroke-width: 2;
+}
+
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+  letter-spacing: 4px;
+  text-align: right;
+}
+
+a {
+  color: #02818a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bdc9e1;
+  text-decoration: none;
+}
+
+#about {
+  max-height: 80vh;
+  overflow-y: scroll;
+}
+
+#author {
+  letter-spacing: 8px;
+}
+
+p {
+  padding: 3rem 1rem 3rem 1rem;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #map {
+    height: 60vh;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+  #map {
+    height: 80vh;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}

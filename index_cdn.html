@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>TEACHING HOSPITALS</title>
+
+  <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/journal/bootstrap.min.css" rel="stylesheet" integrity="sha384-vjBZc/DqIqR687k5rf6bUQ6IVSOxQUi9TcwtvULstA7+YGi//g3oT2qkh8W1Drx9" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+
+      font-family: "Montserrat", sans-serif;
+      /*font-weight: 400;*/
+    }
+
+    #map {
+      width: 100%;
+      height: 40vh;
+    }
+
+    h1 {
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    h3 {
+      font-size: 1.25em;
+    }
+
+    #panel {
+      background-color: rgb(85, 85, 85);
+    }
+
+    h5 {
+      letter-spacing: 4px;
+      text-align: right;
+    }
+
+    #myTabContent {
+      padding: 1em;
+    }
+
+    a {
+      color: rgb(2, 150, 14);
+      text-decoration: none;
+    }
+
+
+    a:hover {
+      color: #bdc9e1;
+      text-decoration: none;
+    }
+
+    #about {
+      max-height: 80vh;
+      overflow-y: scroll;
+    }
+
+    #author {
+      letter-spacing: 8px;
+    }
+
+    .popCustom .leaflet-popup-content-wrapper,
+    .popCustom .leaflet-popup-tip {
+      background-color: rgba(44, 44, 44, 0.9);
+      color: whitesmoke;
+    }
+
+    /* Small devices (landscape phones, 576px and up) */
+    @media (min-width: 576px) {}
+
+    /* Medium devices (tablets, 768px and up) */
+    @media (min-width: 768px) {
+      #map {
+        height: 60vh;
+      }
+    }
+
+    /* Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) {
+
+      #map {
+        height: 80vh;
+      }
+    }
+
+    /* Extra large devices (large desktops, 1200px and up) */
+    @media (min-width: 1200px) {}
+  </style>
+
+</head>
+
+<body>
+
+  <div class="container-fluid">
+    <header class="row bg-dark">
+      <div class="col px-3 py-3 sm-9">
+        <h2 class="text-white">TEACHING HOSPITALS</h2>
+      </div>
+      <div class="col sm-3 py-4">
+        <!--Please help: color of h5 did not work if declared in CSS Style Section above. WHY!!!-->
+        <h5 style="color: chartreuse;"> USA </h5>
+      </div>
+    </header>
+
+    <section id="panel" class="row">
+      <div class="col-12 col-md-7 col-lg-8 px-0">
+        <div id="map" class="position-relative"></div>
+      </div>
+      <aside id="about" class="col-12 col-md-5 col-lg-4 text-dark py-2">
+        <section>
+          <ul class="nav nav-tabs">
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="tab" href="#About">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#Table">Table</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#Meta">Meta</a>
+            </li>
+
+          </ul>
+
+
+          <div id="myTabContent" class="tab-content text-white">
+
+            <div class="tab-pane fade active show" id="About">
+              <div class="container row">
+                <p>
+                  Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.
+                </p>
+              </div>
+            </div>
+
+
+
+            <div class="tab-pane fade active show" id="Table">
+              <div class="container row">
+                <p>
+                  Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.
+                </p>
+              </div>
+            </div>
+
+
+            <div class="tab-pane fade active show" id="Meta">
+              <div class="container row">
+                <p>
+                  Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.
+                </p>
+              </div>
+            </div>
+
+          </div>
+
+        </section>
+      </aside>
+    </section>
+
+    <footer class="row bg-dark text-white py-3">
+      <div class="col mx-2">
+        <ul class="list-unstyled">
+          <li>AUTHORED <span id="author">: <a href="https://avyma.github.io/therightvue">THE RIGHT VUE</a></span></li>
+          <li>DATE: 05 - 23 - 2020</li>
+          <li><a href="data/meta.md">META DATA</a></li>
+        </ul>
+      </div>
+    </footer>
+  </div> <!-- end .container-fluid -->
+
+
+  <!-- (4) Leaflet -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+  <script src="https://d3js.org/d3.v5.js"></script>
+
+  <script>
+    const options = {
+      center: [38, -100],
+      zoom: 4.5,
+      zoomSnap: .1,
+      zoomControl: false,
+    }
+
+    const map = L.map('map', options);
+    new L.control.zoom({
+      position: "bottomright"
+    }).addTo(map)
+
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+      maxZoom: 20,
+      attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    const tchHospital = d3.json('data/medicalschool.geojson');
+    Promise.all([tchHospital]).then(drawMap);
+
+    function drawMap(data) {
+
+      const commonStyles = {
+        radius: 4,
+        fillColor: "chartreuse",
+        color: "chartreuse",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.4,
+      };
+
+
+      const hospitals = L.geoJson(data, {
+        pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, commonStyles);
+        },
+
+        onEachFeature: function (feature, layer) {
+          const props = layer.feature.properties;
+
+          console.log('layer', layer.feature.properties);
+
+          const popText = `<p><h3>${props.Name}</h3></p><p>Address: ${props.Address}<br>City: ${props.City}<br>State: ${props.State}<br>Zip: ${props.Zip}<br>Country: ${props.Country}</p>`;
+          const popStyle = {
+            'maxWidth': '400',
+            'width': '200',
+            'className': 'popCustom'
+          }
+
+
+          layer.bindPopup(popText, popStyle);
+
+          layer.on('mouseover', function () {
+            layer.setStyle({
+              color: 'yellow',
+              fillColor: 'yellow',
+              fillOpacity: .8
+            });
+          })
+
+          layer.on('mouseout', function () {
+            layer.setStyle({
+              radius: 4,
+              fillColor: "chartreuse",
+              color: "chartreuse",
+              weight: 1,
+              opacity: 1,
+              fillOpacity: 0.4,
+            });
+          })
+
+        }
+      }).addTo(map);
+    }
+  </script>
+</body>
+
+</html>

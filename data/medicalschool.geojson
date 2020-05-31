@@ -1,0 +1,2756 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "Name": "Albany Medical College",
+            "Address": "47 New Scotland Ave",
+            "City": "Albany",
+            "State": "NY",
+            "Zip": 12208,
+            "Country": "UNITED STATES",
+            "Phone": "(518)262-6008",
+            "Fax": " (518)262-6515"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.778422, 42.651368]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of New Mexico School of Medicine",
+            "Address": "2425 Camino de Salud",
+            "City": "Albuquerque",
+            "State": "NM",
+            "Zip": 87106,
+            "Country": "UNITED STATES",
+            "Phone": "(505)272-2321",
+            "Fax": " (505)272-6851"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-106.6211219, 35.0898476]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Michigan Medical School",
+            "Address": "1301 Catherine St",
+            "City": "Ann Arbor",
+            "State": "MI",
+            "Zip": 48109,
+            "Country": "UNITED STATES",
+            "Phone": "(734)764-8175",
+            "Fax": " (734)763-4936"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.73219175, 42.2840312]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Morehouse School of Medicine",
+            "Address": "720 Westview Dr SW",
+            "City": "Atlanta",
+            "State": "GA",
+            "Zip": 30310,
+            "Country": "UNITED STATES",
+            "Phone": "(404)752-1720",
+            "Fax": " (404)752-1594"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.413797, 33.7439638]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Emory University School of Medicine",
+            "Address": "1440 Clifton Rd",
+            "City": "Atlanta",
+            "State": "GA",
+            "Zip": 30322,
+            "Country": "UNITED STATES",
+            "Phone": "(404)727-5640",
+            "Fax": " (404)727-0473"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.321527, 33.794564]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Medical College of Georgia at Augusta University",
+            "Address": "1120 15th St",
+            "City": "Augusta",
+            "State": "GA",
+            "Zip": 30912,
+            "Country": "UNITED STATES",
+            "Phone": "(706)721-2231",
+            "Fax": " (706)721-7035"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.98981675, 33.47110005]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Colorado School of Medicine",
+            "Address": "13001 E 17th Pl ",
+            "City": "Aurora",
+            "State": "CO",
+            "Zip": 80045,
+            "Country": "UNITED STATES",
+            "Phone": "(303)724-5375",
+            "Fax": " (303)315-8494"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-104.8375871, 39.74519125]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Texas at Austin Dell Medical School",
+            "Address": "1912 Speedway",
+            "City": "Austin",
+            "State": "TX",
+            "Zip": 78712,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.7387558, 30.2816676]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Johns Hopkins University School of Medicine",
+            "Address": "733 N Broadway",
+            "City": "Baltimore",
+            "State": "MD",
+            "Zip": 21205,
+            "Country": "UNITED STATES",
+            "Phone": "(410)955-3180",
+            "Fax": " (410)955-0889"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.5939987, 39.2990371]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Maryland School of Medicine",
+            "Address": "655 W Baltimore St",
+            "City": "Baltimore",
+            "State": "MD",
+            "Zip": 21201,
+            "Country": "UNITED STATES",
+            "Phone": "(410)706-7410",
+            "Fax": " (410)706-0235"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.62559007, 39.2889412]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Universidad Central del Caribe School of Medicine",
+            "Address": "Laurel Av. Sta. Juanita",
+            "City": "Bayamon",
+            "State": "PR",
+            "Zip": 960,
+            "Country": "UNITED STATES",
+            "Phone": "(787)798-6904",
+            "Fax": " (787)798-6836"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-66.16135, 18.36523]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Uniformed Services University of the Health Sciences F. Edward Hebert School of Medicine",
+            "Address": "4301 Jones Bridge Rd",
+            "City": "Bethesda",
+            "State": "MD",
+            "Zip": 20814,
+            "Country": "UNITED STATES",
+            "Phone": "(301)295-3016",
+            "Fax": " (301)295-3542"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.08637195, 39.00186885]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Alabama School of Medicine",
+            "Address": "1530 3rd Ave S",
+            "City": "Birmingham",
+            "State": "AL",
+            "Zip": 35294,
+            "Country": "UNITED STATES",
+            "Phone": "(205)934-1997",
+            "Fax": " (205)975-6190"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.80921506, 33.50694816]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Charles E. Schmidt College of Medicine at Florida Atlantic University",
+            "Address": "777 Glades Rd",
+            "City": "Boca Raton",
+            "State": "FL",
+            "Zip": 33431,
+            "Country": "UNITED STATES",
+            "Phone": "(561)297-3000",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.1027236, 26.3743445]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Boston University School of Medicine",
+            "Address": "72 E Concord St",
+            "City": "Boston",
+            "State": "MA",
+            "Zip": 2118,
+            "Country": "UNITED STATES",
+            "Phone": "(617)638-4147",
+            "Fax": " (617)638-5258"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06088593, 42.37804413]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Harvard Medical School",
+            "Address": "25 Shattuck St",
+            "City": "Boston",
+            "State": "MA",
+            "Zip": 2115,
+            "Country": "UNITED STATES",
+            "Phone": "(617)432-1501",
+            "Fax": " (617)432-3907"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.103958, 42.335639]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Tufts University School of Medicine",
+            "Address": "136 Harrison Ave",
+            "City": "Boston",
+            "State": "MA",
+            "Zip": 2111,
+            "Country": "UNITED STATES",
+            "Phone": "(617)636-6565",
+            "Fax": " (617)636-0375"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0621085, 42.3499675]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Albert Einstein College of Medicine",
+            "Address": "1300 Morris Park Ave",
+            "City": "Bronx",
+            "State": "NY",
+            "Zip": 10461,
+            "Country": "UNITED STATES",
+            "Phone": "(718)430-2000",
+            "Fax": " (718)430-2488"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.844241, 40.851003]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "State University of New York Downstate Medical Center College of Medicine",
+            "Address": "450 Clarkson Ave",
+            "City": "Brooklyn",
+            "State": "NY",
+            "Zip": 11203,
+            "Country": "UNITED STATES",
+            "Phone": "(718)270-3776",
+            "Fax": " (718)270-4074"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.9450773, 40.6553702]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Texas A&M Health Science Center College of Medicine",
+            "Address": "8447 Riverside Parkway",
+            "City": "Bryan",
+            "State": "TX",
+            "Zip": 77807,
+            "Country": "UNITED STATES",
+            "Phone": "(979)436-0200",
+            "Fax": " (979)436-0092"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.414701, 30.6103817]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo",
+            "Address": "55 Main St",
+            "City": "Buffalo",
+            "State": "NY",
+            "Zip": 14203,
+            "Country": "UNITED STATES",
+            "Phone": "(716)829-2775",
+            "Fax": " (716)829-2179"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.8772838, 42.87640733]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Robert Larner, M.D., College of Medicine at the University of Vermont",
+            "Address": "89 Beaumont Ave",
+            "City": "Burlington",
+            "State": "VT",
+            "Zip": 5405,
+            "Country": "UNITED STATES",
+            "Phone": "(802)656-2156",
+            "Fax": " (802)656-8577"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.193711, 44.478486]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "San Juan Bautista School of Medicine",
+            "Address": "Expreso Luis A. Ferre",
+            "City": "Caguas",
+            "State": "PR",
+            "Zip": 727,
+            "Country": "UNITED STATES",
+            "Phone": "(787)743-3038",
+            "Fax": " (787)746-3093"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-66.051092, 18.220047]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Calgary Cumming School of Medicine",
+            "Address": "3330 Hospital Dr NW",
+            "City": "Calgary",
+            "State": "AB",
+            "Zip": "T2N 4N1",
+            "Country": "CANADA",
+            "Phone": "(403)220-6848",
+            "Fax": " (403)283-4740"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-114.1344677, 51.0629214]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Cooper Medical School of Rowan University ",
+            "Address": "401 S Broadway",
+            "City": "Camden",
+            "State": "NJ",
+            "Zip": 8103,
+            "Country": "UNITED STATES",
+            "Phone": "(856)361-2800",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.119416, 39.940712]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Carle Illinois College of Medicine",
+            "Address": "807 S Wright St",
+            "City": "Champaign",
+            "State": "IL",
+            "Zip": 61820,
+            "Country": "UNITED STATES",
+            "Phone": "(217) 300-570",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.2289557, 40.1153927]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of North Carolina at Chapel Hill School of Medicine",
+            "Address": "321 S Columbia St",
+            "City": "Chapel Hill",
+            "State": "NC",
+            "Zip": 27516,
+            "Country": "UNITED STATES",
+            "Phone": "(919)966-4161",
+            "Fax": " (919)966-8623"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.0522351, 35.9061498]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Medical University of South Carolina College of Medicine",
+            "Address": "96 Jonathan Lucas St",
+            "City": "Charleston",
+            "State": "SC",
+            "Zip": 29425,
+            "Country": "UNITED STATES",
+            "Phone": "(843)792-2081",
+            "Fax": " (843)792-2967"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.948009, 32.783881]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Virginia School of Medicine",
+            "Address": "1st St",
+            "City": "Charlottesville",
+            "State": "VA",
+            "Zip": 22908,
+            "Country": "UNITED STATES",
+            "Phone": "(434)924-5118",
+            "Fax": " (434)982-0874"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.486792, 38.021361]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Northwestern University The Feinberg School of Medicine",
+            "Address": "420 E Superior St",
+            "City": "Chicago",
+            "State": "IL",
+            "Zip": 60611,
+            "Country": "UNITED STATES",
+            "Phone": "(312) 503-0340",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.61972299, 41.89589182]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Rush Medical College of Rush University Medical Center",
+            "Address": "600 S Paulina St",
+            "City": "Chicago",
+            "State": "IL",
+            "Zip": 60612,
+            "Country": "UNITED STATES",
+            "Phone": "(312)942-3237",
+            "Fax": " (312)942-2828"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.66919953, 41.87346631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Chicago Division of the Biological Sciences The Pritzker School of Medicine",
+            "Address": "5841 S Maryland Ave",
+            "City": "Chicago",
+            "State": "IL",
+            "Zip": 60637,
+            "Country": "UNITED STATES",
+            "Phone": "(773)702-3004",
+            "Fax": " (773)702-1897"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.6045824, 41.7883423]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Illinois College of Medicine",
+            "Address": "1853 W Polk St",
+            "City": "Chicago",
+            "State": "IL",
+            "Zip": 60612,
+            "Country": "UNITED STATES",
+            "Phone": "(312)996-3500",
+            "Fax": " (312)996-9006"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.67268355, 41.87144763]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Cincinnati - College of Medicine",
+            "Address": "3230 Eden Ave",
+            "City": "Cincinnati",
+            "State": "OH",
+            "Zip": 45267,
+            "Country": "UNITED STATES",
+            "Phone": "(513)558-7391",
+            "Fax": " (513)558-1165"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.50517334, 39.13846543]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Case Western Reserve University School of Medicine",
+            "Address": "10900 Euclid Ave",
+            "City": "Cleveland",
+            "State": "OH",
+            "Zip": 44106,
+            "Country": "UNITED STATES",
+            "Phone": "(216)368-2825",
+            "Fax": " (216)368-2820"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.60070216, 41.50138695]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Missouri-Columbia School of Medicine",
+            "Address": "1 Hospital Dr",
+            "City": "Columbia",
+            "State": "MO",
+            "Zip": 65212,
+            "Country": "UNITED STATES",
+            "Phone": "(573)882-1566",
+            "Fax": " (573)884-4808"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-92.3270113, 38.9387015]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of South Carolina School of Medicine",
+            "Address": "6311 Garners Ferry Rd",
+            "City": "Columbia",
+            "State": "SC",
+            "Zip": 29209,
+            "Country": "UNITED STATES",
+            "Phone": "(803)216-3301",
+            "Fax": " (803)216-3331"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.96299922, 33.98087824]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Ohio State University College of Medicine",
+            "Address": "370 W 9th Ave",
+            "City": "Columbus",
+            "State": "OH",
+            "Zip": 43210,
+            "Country": "UNITED STATES",
+            "Phone": "(614)292-1200",
+            "Fax": " (614)292-1301"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.01688484, 39.99418795]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Texas Southwestern Medical School",
+            "Address": "5323 Harry Hines Blvd",
+            "City": "Dallas",
+            "State": "TX",
+            "Zip": 75390,
+            "Country": "UNITED STATES",
+            "Phone": "(214)648-2509",
+            "Fax": " (214)648-8955"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.84149851, 32.81152825]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Nova Southeastern University Dr. Kiran C. Patel College of Allopathic Medicine",
+            "Address": "3200 S University Dr",
+            "City": "Davie",
+            "State": "FL",
+            "Zip": 33328,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.25203116, 26.07737763]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Wright State University Boonshoft School of Medicine",
+            "Address": "3640 Colonel Glenn Hwy",
+            "City": "Dayton",
+            "State": "OH",
+            "Zip": 45435,
+            "Country": "UNITED STATES",
+            "Phone": "(937)775-2933",
+            "Fax": " (937)775-2211"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.0908831, 39.7727636]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Wayne State University School of Medicine",
+            "Address": "540 E Canfield St",
+            "City": "Detroit",
+            "State": "MI",
+            "Zip": 48201,
+            "Country": "UNITED STATES",
+            "Phone": "(313)577-1335",
+            "Fax": " (313)577-8777"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.05524571, 42.35516044]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Duke University School of Medicine",
+            "Address": "300 W Morgan St",
+            "City": "Durham",
+            "State": "NC",
+            "Zip": 27701,
+            "Country": "UNITED STATES",
+            "Phone": "(919)684-2455",
+            "Fax": " (919)684-0208"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.902704, 35.998515]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Michigan State University College of Human Medicine",
+            "Address": "965 Fee Rd",
+            "City": "East Lansing",
+            "State": "MI",
+            "Zip": 48824,
+            "Country": "UNITED STATES",
+            "Phone": "(517)353-1730",
+            "Fax": " (517)353-9969"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.46605925, 42.722127]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Texas Rio Grande Valley School of Medicine ",
+            "Address": "1201 W University Dr",
+            "City": "Edinburg",
+            "State": "TX",
+            "Zip": 78539,
+            "Country": "UNITED STATES",
+            "Phone": "(956)296-1900",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-98.17281873, 26.30715335]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Alberta Faculty of Medicine and Dentistry",
+            "Address": "8440 112 St NW",
+            "City": "Edmonton",
+            "State": "AB",
+            "Zip": "T6G 2B7",
+            "Country": "CANADA",
+            "Phone": "(780)492-6621",
+            "Fax": " (780)492-7303"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-113.5210387, 53.52065665]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Texas Tech University Health Sciences Center Paul L. Foster School of Medicine",
+            "Address": "5001 EL Paso Dr",
+            "City": "El Paso",
+            "State": "TX",
+            "Zip": 79905,
+            "Country": "UNITED STATES",
+            "Phone": "(915)215-4300",
+            "Fax": " (915)783-5533"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-106.43085, 31.7718256]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "California Northstate University College of Medicine",
+            "Address": "9700 W Taron Dr",
+            "City": "Elk Grove",
+            "State": "CA",
+            "Zip": 95757,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-121.480749, 38.404133]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Connecticut School of Medicine",
+            "Address": "263 Farmington Ave",
+            "City": "Farmington",
+            "State": "CT",
+            "Zip": 6030,
+            "Country": "UNITED STATES",
+            "Phone": "(860)679-2413",
+            "Fax": " (860)679-1371"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.79234526, 41.73344545]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "TCU and UNTHSC School of Medicine",
+            "Address": "1000 Montgomery St",
+            "City": "Fort Worth",
+            "State": "TX",
+            "Zip": 76107,
+            "Country": "UNITED STATES",
+            "Phone": "(817)735-7766",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.37097882, 32.7508101]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Florida College of Medicine - J. Hillis Miller Health Center",
+            "Address": "1600 SW Archer Rd",
+            "City": "Gainesville",
+            "State": "FL",
+            "Zip": 32608,
+            "Country": "UNITED STATES",
+            "Phone": "(352)846-2473",
+            "Fax": " (352)846-3299"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.342674, 29.640149]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Texas Medical Branch School of Medicine",
+            "Address": "301 University Blvd",
+            "City": "Galveston",
+            "State": "TX",
+            "Zip": 77550,
+            "Country": "UNITED STATES",
+            "Phone": "(409)772-2671",
+            "Fax": " (409)772-9598"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-94.791636, 29.317748]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of North Dakota School of Medicine and Health Sciences",
+            "Address": "1301 N Columbia Rd",
+            "City": "Grand Forks",
+            "State": "ND",
+            "Zip": 58203,
+            "Country": "UNITED STATES",
+            "Phone": "(701)777-2514",
+            "Fax": " (701)777-3527"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.06802301, 47.93210345]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Brody School of Medicine at East Carolina University",
+            "Address": "600 Moye Blvd",
+            "City": "Greenville",
+            "State": "NC",
+            "Zip": 27834,
+            "Country": "UNITED STATES",
+            "Phone": "(252)744-2201",
+            "Fax": " (252)744-9003"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.4010533, 35.6117035]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of South Carolina School of Medicine Greenville",
+            "Address": "701 Grove Rd",
+            "City": "Greenville",
+            "State": "SC",
+            "Zip": 29605,
+            "Country": "UNITED STATES",
+            "Phone": "(864)455-7992",
+            "Fax": " (864)455-8404"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.41041756, 34.81959795]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Dalhousie University Faculty of Medicine",
+            "Address": "5849 University Ave",
+            "City": "Halifax",
+            "State": "NS",
+            "Zip": "B3H 4H7",
+            "Country": "CANADA",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-63.5839051, 44.6392788]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Frank H. Netter MD School of Medicine at Quinnipiac University",
+            "Address": "275 Mount Carmel Ave",
+            "City": "Hamden",
+            "State": "CT",
+            "Zip": 6518,
+            "Country": "UNITED STATES",
+            "Phone": "(203)582-8200",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.89587007, 41.42123821]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "McMaster University - Health Science Center",
+            "Address": "1280 Main St W",
+            "City": "Hamilton",
+            "State": "ON",
+            "Zip": "L8S 4L8",
+            "Country": "CANADA",
+            "Phone": "(905)525-9140",
+            "Fax": " (905)527-2707"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.9191673, 43.2579892]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Geisel School of Medicine at Dartmouth",
+            "Address": "1 Rope Ferry Rd",
+            "City": "Hanover",
+            "State": "NH",
+            "Zip": 3755,
+            "Country": "UNITED STATES",
+            "Phone": "(603)650-1200",
+            "Fax": " (603)650-1202"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.28768447, 43.70835075]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Donald and Barbara Zucker School of Medicine at Hofstra/Northwell",
+            "Address": "500 Hofstra Blvd",
+            "City": "Hempstead",
+            "State": "NY",
+            "Zip": 11549,
+            "Country": "UNITED STATES",
+            "Phone": "(516)463-7516",
+            "Fax": " (516)463-5631"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.94262, 37.257853]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Pennsylvania State University College of Medicine",
+            "Address": "500 University Dr",
+            "City": "Hershey",
+            "State": "PA",
+            "Zip": 17033,
+            "Country": "UNITED STATES",
+            "Phone": "(717)531-8521",
+            "Fax": " (717)531-7557"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.67482219, 40.26370945]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Hawaii, John A. Burns School of Medicine",
+            "Address": "651 Ilalo St",
+            "City": "Honolulu",
+            "State": "HI",
+            "Zip": 96813,
+            "Country": "UNITED STATES",
+            "Phone": "(808) 692-100",
+            "Fax": " (808)692-1247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-157.8634608, 21.29682062]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Baylor College of Medicine",
+            "Address": "1 Baylor Plz",
+            "City": "Houston",
+            "State": "TX",
+            "Zip": 77030,
+            "Country": "UNITED STATES",
+            "Phone": "(713)798-4951",
+            "Fax": " (713)790-0055"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-95.39580027, 29.7104775]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "McGovern Medical School at the University of Texas Health Science Center at Houston",
+            "Address": "6431 Fannin St",
+            "City": "Houston",
+            "State": "TX",
+            "Zip": 77030,
+            "Country": "UNITED STATES",
+            "Phone": "(713)500-5010",
+            "Fax": " (713)500-0602"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-95.39673892, 29.71478678]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Houston College of Medicine",
+            "Address": "4302 University Dr",
+            "City": "Houston",
+            "State": "TX",
+            "Zip": 77204,
+            "Country": "UNITED STATES",
+            "Phone": "(713)743-2255",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-95.338063, 29.717074]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Marshall University Joan C. Edwards School of Medicine",
+            "Address": "1600 Medical Center Dr",
+            "City": "Huntington",
+            "State": "WV",
+            "Zip": 25701,
+            "Country": "UNITED STATES",
+            "Phone": "(304)691-1700",
+            "Fax": " (304)691-1726"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.4273273, 38.4077886]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Indiana University School of Medicine",
+            "Address": "340 W 10th St",
+            "City": "Indianapolis",
+            "State": "IN",
+            "Zip": 46202,
+            "Country": "UNITED STATES",
+            "Phone": "(317)278-3048",
+            "Fax": " (317)274-8439"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.1651721, 39.7815684]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Iowa Roy J. and Lucille A. Carver College of Medicine",
+            "Address": "375 Newton Rd",
+            "City": "Iowa City",
+            "State": "IA",
+            "Zip": 52242,
+            "Country": "UNITED STATES",
+            "Phone": "(319)335-8064",
+            "Fax": " (319)335-8318"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-91.54526854, 41.66279635]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of California (Irvine) - School of Medicine",
+            "Address": "1001 Health Sciences Rd",
+            "City": "Irvine",
+            "State": "CA",
+            "Zip": 92617,
+            "Country": "UNITED STATES",
+            "Phone": "(949)824-5926",
+            "Fax": " (949)824-2676"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.851791, 33.644569]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Mississippi School of Medicine",
+            "Address": "2500 North State Street",
+            "City": "Jackson",
+            "State": "MS",
+            "Zip": 39216,
+            "Country": "UNITED STATES",
+            "Phone": "(601)984-1010",
+            "Fax": " (601)984-1013"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.17252057, 32.32938955]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Western Michigan University Homer Stryker M.D. School of Medicine",
+            "Address": "1000 Oakland Dr",
+            "City": "Kalamazoo",
+            "State": "MI",
+            "Zip": 49008,
+            "Country": "UNITED STATES",
+            "Phone": "(269)337-4500",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.59912617, 42.28257704]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Kansas School of Medicine",
+            "Address": "3901 Rainbow Blvd",
+            "City": "Kansas City",
+            "State": "KS",
+            "Zip": 66160,
+            "Country": "UNITED STATES",
+            "Phone": "(913)588-5200",
+            "Fax": " (913)588-5259"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-94.60953953, 39.05699635]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Missouri-Kansas City School of Medicine",
+            "Address": "2411 Holmes St",
+            "City": "Kansas City",
+            "State": "MO",
+            "Zip": 64108,
+            "Country": "UNITED STATES",
+            "Phone": "(816)235-1808",
+            "Fax": " (816)235-5277"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-94.57574739, 39.08374273]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Queen's University Faculty of Health Sciences - Macklem House",
+            "Address": "18 Barrie Street",
+            "City": "Kingston",
+            "State": "ON",
+            "Zip": "K7L 3N6",
+            "Country": "CANADA",
+            "Phone": "(613)533-2544",
+            "Fax": " (613)533-6884"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.4905594, 44.2230873]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of California, San Diego School of Medicine",
+            "Address": "9500 Gilman Dr",
+            "City": "La Jolla",
+            "State": "CA",
+            "Zip": 92093,
+            "Country": "UNITED STATES",
+            "Phone": "(858)534-1501",
+            "Fax": " (828)822-0084"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.2311005, 32.87935255]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Nevada, Las Vegas School of Medicine",
+            "Address": "1707 W Charleston Blvd",
+            "City": "Las Vegas",
+            "State": "NV",
+            "Zip": 89102,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-115.1941247, 36.158936]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Kentucky College of Medicine",
+            "Address": "138 Leader Ave",
+            "City": "Lexington",
+            "State": "KY",
+            "Zip": 40508,
+            "Country": "UNITED STATES",
+            "Phone": "(859)323-5079",
+            "Fax": " (859)323-2039"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.510532, 38.0333478]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Arkansas for Medical Sciences College of Medicine",
+            "Address": "4301 W Markham St",
+            "City": "Little Rock",
+            "State": "AR",
+            "Zip": 72205,
+            "Country": "UNITED STATES",
+            "Phone": "(501)686-5350",
+            "Fax": " (501)686-8160"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-92.31988846, 34.74824675]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Loma Linda University School of Medicine - Coleman Pavilion",
+            "Address": "11175 Campus St ",
+            "City": "Loma Linda",
+            "State": "CA",
+            "Zip": 92350,
+            "Country": "UNITED STATES",
+            "Phone": "(909)558-4481",
+            "Fax": " (909)558-0292"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.2658054, 34.05062409]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "The University of Western Ontario - Schulich School of Medicine & Dentistry",
+            "Address": "Richmond Street North",
+            "City": "London",
+            "State": "ON",
+            "Zip": "N6A 5C1",
+            "Country": "CANADA",
+            "Phone": "(519)661-3459",
+            "Fax": " (519)661-3797"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.2898621, 43.0405173]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Keck School of Medicine of the University of Southern California",
+            "Address": "1975 Zonal Ave",
+            "City": "Los Angeles",
+            "State": "CA",
+            "Zip": 90089,
+            "Country": "UNITED STATES",
+            "Phone": "(323)442-1900",
+            "Fax": " (323)442-2724"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-118.2085278, 34.06099521]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of California, Los Angeles David Geffen School of Medicine",
+            "Address": "10833 Le Conte Ave",
+            "City": "Los Angeles",
+            "State": "CA",
+            "Zip": 90095,
+            "Country": "UNITED STATES",
+            "Phone": "(310)825-6373",
+            "Fax": " (310)206-5046"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-118.4420255, 34.066153]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Louisville School of Medicine",
+            "Address": "323 E Chestnut St",
+            "City": "Louisville",
+            "State": "KY",
+            "Zip": 40202,
+            "Country": "UNITED STATES",
+            "Phone": "(502)852-5184",
+            "Fax": " (502)852-1484"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.74851352, 38.2484289]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Texas Tech University Health Sciences Center School of Medicine",
+            "Address": "3601 Fourth St Stop 6238",
+            "City": "Lubbock",
+            "State": "TX",
+            "Zip": 79430,
+            "Country": "UNITED STATES",
+            "Phone": "(806)743-3000",
+            "Fax": " (806)743-3021"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-101.891836, 33.589418]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Mercer University School of Medicine",
+            "Address": "1550 College St",
+            "City": "Macon",
+            "State": "GA",
+            "Zip": 31207,
+            "Country": "UNITED STATES",
+            "Phone": "(478)301-4022",
+            "Fax": " (478)301-5634"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.64895858, 32.82861992]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Wisconsin School of Medicine and Public Health",
+            "Address": "750 Highland Ave",
+            "City": "Madison",
+            "State": "WI",
+            "Zip": 53705,
+            "Country": "UNITED STATES",
+            "Phone": "(608)263-8668",
+            "Fax": " (608)265-3286"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.4297886, 43.0777498]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Loyola University Chicago Stritch School of Medicine",
+            "Address": "2160 S 1st Ave",
+            "City": "Maywood",
+            "State": "IL",
+            "Zip": 60153,
+            "Country": "UNITED STATES",
+            "Phone": "(708)216-3223",
+            "Fax": " (708)216-4305"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.83524275, 41.85901495]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Tennessee Health Science Center College of Medicine",
+            "Address": "910 Madison Ave",
+            "City": "Memphis",
+            "State": "TN",
+            "Zip": 38103,
+            "Country": "UNITED STATES",
+            "Phone": "(901)448-5529",
+            "Fax": " (901)448-7683"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.0337905, 35.1404827]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Miami Leonard M. Miller School of Medicine",
+            "Address": "1600 NW 10th Ave",
+            "City": "Miami",
+            "State": "FL",
+            "Zip": 33136,
+            "Country": "UNITED STATES",
+            "Phone": "(305)243-6545",
+            "Fax": " (305)243-4888"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.2121623, 25.7904246]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Herbert Wertheim College of Medicine",
+            "Address": "11200 SW 8th St",
+            "City": "Miami",
+            "State": "FL",
+            "Zip": 33199,
+            "Country": "UNITED STATES",
+            "Phone": "(305)348-0570",
+            "Fax": " (305)348-0123"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.37161983, 25.7557836]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Medical College of Wisconsin",
+            "Address": "8701 W Watertown Plank Rd",
+            "City": "Milwaukee",
+            "State": "WI",
+            "Zip": 53226,
+            "Country": "UNITED STATES",
+            "Phone": "(414)456-8213",
+            "Fax": " (414)456-6560"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.020447, 43.045751]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "New York University Long Island School of Medicine",
+            "Address": "259 1st St",
+            "City": "Mineola",
+            "State": "NY",
+            "Zip": 11501,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.64292075, 40.74095105]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Minnesota Medical School",
+            "Address": "420 D420 Delaware St SE",
+            "City": "Minneapolis",
+            "State": "MN",
+            "Zip": 55455,
+            "Country": "UNITED STATES",
+            "Phone": "(612)626-4949",
+            "Fax": " (612)626-4911"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.232972, 44.972253]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of South Alabama College of Medicine",
+            "Address": "307 University Blvd",
+            "City": "Mobile",
+            "State": "AL",
+            "Zip": 36688,
+            "Country": "UNITED STATES",
+            "Phone": "(251)460-7189",
+            "Fax": " (251)460-6073"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.168864, 30.7122]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "McGill University Faculty of Medicine",
+            "Address": "3605 Rue de la Montagne",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H3G 2M1",
+            "Country": "CANADA",
+            "Phone": "(514)398-3515",
+            "Fax": " (514)398-4423"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.5825077, 45.50158679]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Universite de Montreal Faculty of Medicine",
+            "Address": "2900 Edouard Montpetit Blvd",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H3T 1J4",
+            "Country": "CANADA",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.61313135, 45.50002155]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "West Virginia University School of Medicine",
+            "Address": "1 Medical Center Dr",
+            "City": "Morgantown",
+            "State": "WV",
+            "Zip": 26506,
+            "Country": "UNITED STATES",
+            "Phone": "(304)293-6607",
+            "Fax": " (304)293-6627"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.9557763, 39.65399]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "East Tennessee State University - Quillen College of Medicine",
+            "Address": "178 Maple Ave",
+            "City": "Mountain Home",
+            "State": "TN",
+            "Zip": 37684,
+            "Country": "UNITED STATES",
+            "Phone": "(423)439-6315",
+            "Fax": " (423)439-8090"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.37898, 36.309468]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Central Michigan University College of Medicine",
+            "Address": "1280 E Campus Dr",
+            "City": "Mt Pleasant",
+            "State": "MI",
+            "Zip": 48858,
+            "Country": "UNITED STATES",
+            "Phone": "(989)774-7870",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.76996825, 43.59039965]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Meharry Medical College",
+            "Address": "1005 Dr DB Todd JR Blvd",
+            "City": "Nashville",
+            "State": "TN",
+            "Zip": 37208,
+            "Country": "UNITED STATES",
+            "Phone": "(615)327-6204",
+            "Fax": " (615)327-6568"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.806048, 36.167756]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Vanderbilt University School of Medicine",
+            "Address": "1161 21st Ave S",
+            "City": "Nashville",
+            "State": "TN",
+            "Zip": 37232,
+            "Country": "UNITED STATES",
+            "Phone": "(615)322-5191",
+            "Fax": " (615)343-7286"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.79987927, 36.14456947]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Yale School of Medicine",
+            "Address": "333 Cedar St",
+            "City": "New Haven",
+            "State": "CT",
+            "Zip": 6510,
+            "Country": "UNITED STATES",
+            "Phone": "(203)785-4672",
+            "Fax": " (203)785-7437"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.93355848, 41.30216878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Louisiana State University School of Medicine in New Orleans",
+            "Address": "1542 Tulane Ave",
+            "City": "New Orleans",
+            "State": "LA",
+            "Zip": 70112,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.0786874, 29.955961]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Tulane University School of Medicine",
+            "Address": "1430 Tulane Ave",
+            "City": "New Orleans",
+            "State": "LA",
+            "Zip": 70112,
+            "Country": "UNITED STATES",
+            "Phone": "(504)988-5462",
+            "Fax": " (504)988-2495"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.0767461, 29.9552502]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Columbia University Vagelos College of Physicians and Surgeons",
+            "Address": "630 W 168th St",
+            "City": "New York",
+            "State": "NY",
+            "Zip": 10032,
+            "Country": "UNITED STATES",
+            "Phone": "(212)305-3592",
+            "Fax": " (212)305-3545"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.94368971, 40.8419836]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "CUNY School of Medicine",
+            "Address": "160 Convent Ave",
+            "City": "New York",
+            "State": "NY",
+            "Zip": 10031,
+            "Country": "UNITED STATES",
+            "Phone": "(212)650-5275",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.95100898, 40.81819805]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Icahn School of Medicine at Mount Sinai",
+            "Address": "1 Gustave L Levy Pl",
+            "City": "New York",
+            "State": "NY",
+            "Zip": 10029,
+            "Country": "UNITED STATES",
+            "Phone": "(212)659-9001",
+            "Fax": " (212)410-6111"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.95317015, 40.7900429]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "New York University Grossman School of Medicine",
+            "Address": "550 First Ave",
+            "City": "New York",
+            "State": "NY",
+            "Zip": 10016,
+            "Country": "UNITED STATES",
+            "Phone": "(212)263-5372",
+            "Fax": " (212)263-7800"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.9528461, 42.8021386]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Weill Cornell Medicine",
+            "Address": "1300 York Ave",
+            "City": "New York",
+            "State": "NY",
+            "Zip": 10065,
+            "Country": "UNITED STATES",
+            "Phone": "(212)746-6005",
+            "Fax": " (212)746-8424"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.9549121, 40.7647523]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Rutgers New Jersey Medical School",
+            "Address": "65 Bergen St ",
+            "City": "Newark",
+            "State": "NJ",
+            "Zip": 7107,
+            "Country": "UNITED STATES",
+            "Phone": "(973)972-4300",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.190796, 40.743676]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Eastern Virginia Medical School",
+            "Address": "721 Fairfax Ave",
+            "City": "Norfolk",
+            "State": "VA",
+            "Zip": 23507,
+            "Country": "UNITED STATES",
+            "Phone": "(757)446-5800",
+            "Fax": " (757)446-8444"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.30169712, 36.86000625]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Chicago Medical School at Rosalind Franklin University of Medicine & Science",
+            "Address": "3333 Green Bay Rd",
+            "City": "North Chicago",
+            "State": "IL",
+            "Zip": 60064,
+            "Country": "UNITED STATES",
+            "Phone": "(847)578-3000",
+            "Fax": " (847)578-3401"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.85894337, 42.3001415]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Hackensack-Meridian School of Medicine at Seton Hall University",
+            "Address": "340 Kingsland St",
+            "City": "Nutley",
+            "State": "NJ",
+            "Zip": 7110,
+            "Country": "UNITED STATES",
+            "Phone": "(973)761-9000",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.15787573, 40.83254816]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Oklahoma College of Medicine",
+            "Address": "800 Stanton L Young Blvd",
+            "City": "Oklahoma City",
+            "State": "OK",
+            "Zip": 73104,
+            "Country": "UNITED STATES",
+            "Phone": "(405)271-3223",
+            "Fax": " (405)271-3032"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.499047, 35.480066]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Creighton University School of Medicine",
+            "Address": "2500 California Plz",
+            "City": "Omaha",
+            "State": "NE",
+            "Zip": 68178,
+            "Country": "UNITED STATES",
+            "Phone": "(402)280-2600",
+            "Fax": " (402)280-4027"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-95.94860088, 41.26468935]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Nebraska College of Medicine",
+            "Address": "42nd St.",
+            "City": "Omaha",
+            "State": "NE",
+            "Zip": 68198,
+            "Country": "UNITED STATES",
+            "Phone": "(402)559-4204",
+            "Fax": " (402)559-4148"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-95.97611, 41.254709]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Central Florida College of Medicine",
+            "Address": "6850 Lake Nona Blvd",
+            "City": "Orlando",
+            "State": "FL",
+            "Zip": 32827,
+            "Country": "UNITED STATES",
+            "Phone": "(407)266-1000",
+            "Fax": " (407)266-1489"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.2808082, 28.3674698]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Ottawa Faculty of Medicine",
+            "Address": "451 Smyth Road",
+            "City": "Ottawa",
+            "State": "ON",
+            "Zip": "K1H 8M5",
+            "Country": "CANADA",
+            "Phone": "(613)562-5400",
+            "Fax": " (613)562-5454"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.65004164, 45.4024385]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Kaiser Permanente School of Medicine",
+            "Address": "100 S. Los Robles Ave",
+            "City": "Pasadena",
+            "State": "CA",
+            "Zip": 91101,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-118.1412913, 34.14414237]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Lewis Katz School of Medicine at Temple University",
+            "Address": "3500 N Broad St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip": 19140,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.15220298, 40.00698335]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Perelman School of Medicine at the University of Pennsylvania",
+            "Address": "3400 Civic Center Blvd ",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip": 19104,
+            "Country": "UNITED STATES",
+            "Phone": "(215)898-6796",
+            "Fax": " (215)573-2030"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.1932406, 39.9473353]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Sidney Kimmel Medical College at Thomas Jefferson University",
+            "Address": "1025 Walnut St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip": 19107,
+            "Country": "UNITED STATES",
+            "Phone": "(215)955-6980",
+            "Fax": " (215)955-2868"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.1579643, 39.94872895]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Drexel University College of Medicine",
+            "Address": "2900 W Queen Ln",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip": 19129,
+            "Country": "UNITED STATES",
+            "Phone": "(215)991-8561",
+            "Fax": " (215)843-0214"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.180126, 40.020562]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Arizona College of Medicine - Phoenix",
+            "Address": "475 N. 5th Street",
+            "City": "Phoenix",
+            "State": "AZ",
+            "Zip": 85004,
+            "Country": "UNITED STATES",
+            "Phone": "(602)827-2001",
+            "Fax": " (602)827-2074"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-112.0673812, 33.45310794]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Rutgers, Robert Wood Johnson Medical School",
+            "Address": "675 Hoes LN W",
+            "City": "Piscataway",
+            "State": "NJ",
+            "Zip": 8854,
+            "Country": "UNITED STATES",
+            "Phone": "(732)235-6300",
+            "Fax": " (732)235-6315"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.47131094, 40.53009165]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Pittsburgh School of Medicine",
+            "Address": "3550 Terrace Street",
+            "City": "Pittsburgh",
+            "State": "PA",
+            "Zip": 15261,
+            "Country": "UNITED STATES",
+            "Phone": "(412)648-8975",
+            "Fax": " (412)648-1236"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.961803, 40.442814]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Ponce Health Sciences University - School of Medicine",
+            "Address": "388 Zona Industrial Reparada 2",
+            "City": "Ponce",
+            "State": "PR",
+            "Zip": 716,
+            "Country": "UNITED STATES",
+            "Phone": "(787)840-2575",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-66.619577, 17.994799]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Oregon Health & Science University School of Medicine",
+            "Address": "3181 SW Sam Jackson Park Rd",
+            "City": "Portland",
+            "State": "OR",
+            "Zip": 97239,
+            "Country": "UNITED STATES",
+            "Phone": "(503)494-8220",
+            "Fax": " (503)494-3400"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.688027, 45.50056345]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Warren Alpert Medical School of Brown University",
+            "Address": "97 Waterman St",
+            "City": "Providence",
+            "State": "RI",
+            "Zip": 2912,
+            "Country": "UNITED STATES",
+            "Phone": "(401)863-3330",
+            "Fax": " (401)863-3431"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.40117367, 41.82730033]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Faculty of Medicine Universit� Laval - Pavillon Ferdinand-Vandry",
+            "Address": "1050, Avenue de la Medecine",
+            "City": "Quebec City",
+            "State": "QC",
+            "Zip": "G1K 7P4",
+            "Country": "CANADA",
+            "Phone": "(418)656-2301",
+            "Fax": " (418)656-5062"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.27818964, 46.778689]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Nevada, Reno School of Medicine",
+            "Address": "1664 N Virginia St",
+            "City": "Reno",
+            "State": "NV",
+            "Zip": 89557,
+            "Country": "UNITED STATES",
+            "Phone": "(775)784-6001",
+            "Fax": " (775)784-6096"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-119.8163174, 39.54425325]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Virginia Commonwealth University School of Medicine",
+            "Address": "1201 E Marshall St",
+            "City": "Richmond",
+            "State": "VA",
+            "Zip": 23298,
+            "Country": "UNITED STATES",
+            "Phone": "(804)828-9788",
+            "Fax": " (804)828-7628"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.4312269, 37.5402232]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of California, Riverside School of Medicine",
+            "Address": "92521 Ucr Botanic Gardens Rd",
+            "City": "Riverside",
+            "State": "CA",
+            "Zip": 92507,
+            "Country": "UNITED STATES",
+            "Phone": "(951)827-4568",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.324, 33.974073]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Virginia Tech Carilion School of Medicine",
+            "Address": "2 Riverside Circle",
+            "City": "Roanoke",
+            "State": "VA",
+            "Zip": 24016,
+            "Country": "UNITED STATES",
+            "Phone": "(540)526-2559",
+            "Fax": " (540)581-0741"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.942631, 37.257793]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Mayo Clinic Alix School of Medicine",
+            "Address": "200 1st St SW",
+            "City": "Rochester",
+            "State": "MN",
+            "Zip": 55905,
+            "Country": "UNITED STATES",
+            "Phone": "(507)284-3268",
+            "Fax": " (507)284-2634"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-92.4680463, 44.022446]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Rochester School of Medicine and Dentistry",
+            "Address": "601 Elmwood Ave",
+            "City": "Rochester",
+            "State": "NY",
+            "Zip": 14642,
+            "Country": "UNITED STATES",
+            "Phone": "(585)275-0017",
+            "Fax": " (585)256-1131"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.6253854, 43.12290635]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Oakland University William Beaumont School of Medicine",
+            "Address": "586 Pioneer Dr",
+            "City": "Rochester",
+            "State": "MI",
+            "Zip": 48309,
+            "Country": "UNITED STATES",
+            "Phone": "(248)370-3634",
+            "Fax": " (248)370-3630"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.21533994, 42.67432305]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Northeast Ohio Medical University",
+            "Address": "4209 St, OH-44",
+            "City": "Rootstown",
+            "State": "OH",
+            "Zip": 44272,
+            "Country": "UNITED STATES",
+            "Phone": "(330)325-2511",
+            "Fax": " (330)325-7943"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.244899, 41.103155]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of California, Davis, School of Medicine",
+            "Address": "4610 X St",
+            "City": "Sacramento",
+            "State": "CA",
+            "Zip": 95817,
+            "Country": "UNITED STATES",
+            "Phone": "(916)734-4800",
+            "Fax": " (916)734-7055"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-121.4527317, 38.5529775]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Saint Louis University School of Medicine",
+            "Address": "1402 South Grand Boulevard",
+            "City": "Saint Louis",
+            "State": "MO",
+            "Zip": 63104,
+            "Country": "UNITED STATES",
+            "Phone": "(314)977-9801",
+            "Fax": " (314)977-9899"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.2375733, 38.6221039]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Washington University in St. Louis School of Medicine",
+            "Address": "660 S Euclid Ave",
+            "City": "Saint Louis",
+            "State": "MO",
+            "Zip": 63110,
+            "Country": "UNITED STATES",
+            "Phone": "(314)362-6827",
+            "Fax": " (314)367-6666"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.26310875, 38.63457863]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Utah School of Medicine",
+            "Address": "30 N 1900 E",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": 84132,
+            "Country": "UNITED STATES",
+            "Phone": "(801)581-6436",
+            "Fax": " (801)581-7177"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-111.8365003, 40.7506458]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "The University of Texas Health Science Center at San Antonio Joe R. and Teresa Lozano Long School of Medicine",
+            "Address": "7703 Floyd Curl Dr",
+            "City": "San Antonio",
+            "State": "TX",
+            "Zip": 78229,
+            "Country": "UNITED STATES",
+            "Phone": "(210)567-4432",
+            "Fax": " (210)567-3435"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-98.57772895, 29.51308465]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "California University of Science and Medicine-School of Medicine",
+            "Address": "217 E Club Center Dr",
+            "City": "San Bernardino",
+            "State": "CA",
+            "Zip": 92408,
+            "Country": "UNITED STATES",
+            "Phone": "(909)580-9661",
+            "Fax": " (909) 424-0435"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.282022, 34.06039799]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of California, San Francisco, School of Medicine",
+            "Address": "513 Parnassus Ave",
+            "City": "San Francisco",
+            "State": "CA",
+            "Zip": 94143,
+            "Country": "UNITED STATES",
+            "Phone": "(415)476-2342",
+            "Fax": " (415)476-0689"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.4581925, 37.7633138]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Puerto Rico - Medical Sciences Campus",
+            "Address": "Paseo Dr. Jose Celso Barbosa",
+            "City": "San Juan",
+            "State": "PR",
+            "Zip": 921,
+            "Country": "UNITED STATES",
+            "Phone": "(787)765-2363",
+            "Fax": " (787)756-8475"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-66.0746326, 18.393174]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Saskatchewan College of Medicine",
+            "Address": "107 Wiggins Rd",
+            "City": "Saskatoon",
+            "State": "SK",
+            "Zip": "S7N 5E5",
+            "Country": "CANADA",
+            "Phone": "(306)966-2673",
+            "Fax": " (306)966-6164"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-106.639262, 52.131138]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Geisinger Commonwealth School of Medicine",
+            "Address": "525 Pine St",
+            "City": "Scranton",
+            "State": "PA",
+            "Zip": 18509,
+            "Country": "UNITED STATES",
+            "Phone": "(570)504-7000",
+            "Fax": " (570)504-9063"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.65485415, 41.4132893]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Washington School of Medicine - Health Science Center",
+            "Address": "1959 NE Pacific St",
+            "City": "Seattle",
+            "State": "WA",
+            "Zip": 98195,
+            "Country": "UNITED STATES",
+            "Phone": "(206)543-1060",
+            "Fax": " (206)543-3639"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.3075829, 47.64941185]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Universite de Sherbrooke Faculty of Medicine",
+            "Address": "3001 12 Ave N",
+            "City": "Sherbrooke",
+            "State": "QC",
+            "Zip": "J1H 5N4",
+            "Country": "CANADA",
+            "Phone": "(819)564-5201",
+            "Fax": " (819)564-5420"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.869586, 45.452239]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Louisiana State University School of Medicine in Shreveport",
+            "Address": "1501 Kings Hwy",
+            "City": "Shreveport",
+            "State": "LA",
+            "Zip": 71130,
+            "Country": "UNITED STATES",
+            "Phone": "(318)675-5241",
+            "Fax": " (318)675-5244"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.76305657, 32.48191916]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of South Dakota, Sanford School of Medicine",
+            "Address": "1400 W 22nd St",
+            "City": "Sioux Falls",
+            "State": "SD",
+            "Zip": 57105,
+            "Country": "UNITED STATES",
+            "Phone": "(605)357-1300",
+            "Fax": " (605)357-1311"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.742658, 43.533121]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Washington State University Elson S. Floyd College of Medicine",
+            "Address": "412 E Spokane Falls Blvd",
+            "City": "Spokane",
+            "State": "WA",
+            "Zip": 99202,
+            "Country": "UNITED STATES",
+            "Phone": "",
+            "Fax": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.4100464, 47.6602344]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Southern Illinois University School of Medicine",
+            "Address": "801 N Rutledge St",
+            "City": "Springfield",
+            "State": "IL",
+            "Zip": 62702,
+            "Country": "UNITED STATES",
+            "Phone": "(217)545-3625",
+            "Fax": " (217)545-8135"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.65748628, 39.80975788]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Memorial University of Newfoundland Faculty of Medicine",
+            "Address": "300 Prince Philip Dr",
+            "City": "St. John",
+            "State": "NL",
+            "Zip": "A1B 3V6",
+            "Country": "CANADA",
+            "Phone": "(709)777-6602",
+            "Fax": " (709)777-6746"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-52.741031, 47.572915]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Stanford University School of Medicine",
+            "Address": "300 Pasteur Dr",
+            "City": "Stanford",
+            "State": "CA",
+            "Zip": 94305,
+            "Country": "UNITED STATES",
+            "Phone": "(650)725-3900",
+            "Fax": " (650)725-7368"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.1755481, 37.43309365]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Renaissance School of Medicine at Stony Brook University",
+            "Address": "100 Nicolls Rd",
+            "City": "Stony Brook",
+            "State": "NY",
+            "Zip": 11794,
+            "Country": "UNITED STATES",
+            "Phone": "(631)444-1785",
+            "Fax": " (631)444-1340"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.1091896, 40.9072198]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Northern Ontario School of Medicine",
+            "Address": "935 Ramsey Lake Road",
+            "City": "Sudbury",
+            "State": "ON",
+            "Zip": "P3E 2C6",
+            "Country": "CANADA",
+            "Phone": "(705)675-4883",
+            "Fax": " (705)675-4858"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.9704772, 46.4708511]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "State University of New York Upstate Medical University",
+            "Address": "750 E Adams St",
+            "City": "Syracuse",
+            "State": "NY",
+            "Zip": 13210,
+            "Country": "UNITED STATES",
+            "Phone": "(315)464-4513",
+            "Fax": " (315)464-5275"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.1391667, 43.0408333]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Florida State University College of Medicine",
+            "Address": "1115 W Call St",
+            "City": "Tallahassee",
+            "State": "FL",
+            "Zip": 32304,
+            "Country": "UNITED STATES",
+            "Phone": "(850)644-1855",
+            "Fax": " (850)645-1420"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.29944789, 30.44420309]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "USF Health Morsani College of Medicine",
+            "Address": "12901 Bruce B Downs Blvd",
+            "City": "Tampa",
+            "State": "FL",
+            "Zip": 33612,
+            "Country": "UNITED STATES",
+            "Phone": "(813)974-0533",
+            "Fax": " (813)974-3886"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.4079436, 28.088122]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "The University of Toledo College of Medicine and Life Sciences",
+            "Address": "3000 Arlington Ave",
+            "City": "Toledo",
+            "State": "OH",
+            "Zip": 43614,
+            "Country": "UNITED STATES",
+            "Phone": "(419)383-4243",
+            "Fax": " (419)383-6100"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.620893, 41.619478]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Toronto Faculty of Medicine",
+            "Address": "1 King's College Circle",
+            "City": "Toronto",
+            "State": "ON",
+            "Zip": "M5S 1A8",
+            "Country": "CANADA",
+            "Phone": "(416)978-6585",
+            "Fax": " (416)978-1774"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.3936232, 43.6611767]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Arizona College of Medicine - Arizona Health Sciences Center",
+            "Address": "1501 N Campbell Ave",
+            "City": "Tucson",
+            "State": "AZ",
+            "Zip": 85724,
+            "Country": "UNITED STATES",
+            "Phone": "(520)626-4555",
+            "Fax": " (520)626-6252"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-110.9456042, 32.24123395]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "New York Medical College",
+            "Address": "40 Sunshine Cottage Rd",
+            "City": "Valhalla",
+            "State": "NY",
+            "Zip": 10595,
+            "Country": "UNITED STATES",
+            "Phone": "(914)594-4900",
+            "Fax": " (914)594-4145"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.808916, 41.084765]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of British Columbia Faculty of Medicine",
+            "Address": "2194 Health Sciences Mall",
+            "City": "Vancouver",
+            "State": "BC",
+            "Zip": "V6T 1Z3",
+            "Country": "CANADA",
+            "Phone": "(604)822-2421",
+            "Fax": " (604)822-6061"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-123.246839, 49.26480085]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "George Washington University School of Medicine and Health Sciences",
+            "Address": "2300 I St NW",
+            "City": "Washington",
+            "State": "DC",
+            "Zip": "    ",
+            "Country": "UNITED STATES",
+            "Phone": "(202)994-2987",
+            "Fax": " (202)994-0926"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0506, 38.9003]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Georgetown University School of Medicine",
+            "Address": "3900 Reservoir Rd NW",
+            "City": "Washington",
+            "State": "DC",
+            "Zip": 20007,
+            "Country": "UNITED STATES",
+            "Phone": "(202)687-3922",
+            "Fax": " (202)687-2792"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.07694054, 38.9118599]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Howard University College of Medicine",
+            "Address": "520 W St NW",
+            "City": "Washington",
+            "State": "DC",
+            "Zip": 20059,
+            "Country": "UNITED STATES",
+            "Phone": "(202)806-5677",
+            "Fax": " (202)806-7934"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0200686, 38.9188523]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Max Rady College of Medicine, University of Manitoba",
+            "Address": "750 Bannatyne Ave",
+            "City": "Winnipeg",
+            "State": "MB",
+            "Zip": "R3E 0W2",
+            "Country": "CANADA",
+            "Phone": "(204)789-3557",
+            "Fax": " (204)789-3928"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.1389683, 49.8979358]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "Wake Forest School of Medicine of Wake Forest Baptist Medical Center",
+            "Address": "474 Vine Street",
+            "City": "Winston Salem",
+            "State": "NC",
+            "Zip": 27101,
+            "Country": "UNITED STATES",
+            "Phone": "(336)716-5026",
+            "Fax": " (336)716-5139"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.24044665, 36.10000665]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Name": "University of Massachusetts Medical School",
+            "Address": "55 Lake Ave N",
+            "City": "Worcester",
+            "State": "MA",
+            "Zip": 1655,
+            "Country": "UNITED STATES",
+            "Phone": "(508)856-8100",
+            "Fax": " (508)856-8181"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.76166995, 42.2774799]
+        }
+    }]
+}
